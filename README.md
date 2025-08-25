@@ -4,12 +4,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Gabrielle Neves
+Matricula:902697
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+`<Navegador>` 
 
 ## Tela de projeto no Replit
 
